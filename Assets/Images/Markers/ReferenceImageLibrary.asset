@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5283171061909652890
+  m_GuidHigh: 15920629436329672840
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4649774128227277892
+      m_GuidHigh: 12963367661901416615
+    m_SerializedTextureGuid:
+      m_GuidLow: 7081005545638701894
+      m_GuidHigh: 12998612267622367273
+    m_Size: {x: 19.08, y: 19.08}
+    m_SpecifySize: 1
+    m_Name: expeditionpoint01
+    m_Texture: {fileID: 0}
